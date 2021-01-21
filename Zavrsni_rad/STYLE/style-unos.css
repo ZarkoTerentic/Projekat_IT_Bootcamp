@@ -1,0 +1,11 @@
+.grupe{
+    border: black solid 2px;
+    margin-bottom: 10px;
+}
+.podaci{
+    border: 1px solid gray;
+    margin: 5px;
+}
+td{
+    border: 1px solid black;
+}

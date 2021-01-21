@@ -1,0 +1,5 @@
+
+- Kupovina (snimanje stavki korpe i korpe u bazi) nije potpuna (radim na tome).
+- Pregled kupovina za ADMIN stranu nedostaje.
+- Treba urediti izgled (css).
+- Treba organizovati fajlove.
